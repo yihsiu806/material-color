@@ -1,6 +1,6 @@
 # Material Colors
 
-Click and copy!
+Click and copied!
 
 ## Develop
 
@@ -21,5 +21,5 @@ cp palettes.json ../src
 ```
 
 ## Reference
-[The color system](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
+[The color system](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)  
 [coolors.co](https://coolors.co/palettes/trending)
